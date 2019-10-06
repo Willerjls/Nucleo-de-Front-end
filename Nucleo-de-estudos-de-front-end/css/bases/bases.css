@@ -1,0 +1,50 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.logo {
+    height: 30px;
+}
+
+.nome-site {
+    color: #fff;
+    font-size: 1.25em;
+    padding-left: 5px;
+}
+
+.github {
+    background-color: transparent;
+    color: #fff;
+    font-size: 1.25em;
+    font-weight: bold;
+    border: 3px solid #fff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 250ms
+}
+
+.btngit {
+    padding: 5px;
+}
+
+.github:hover {
+    background-color: #fff;
+    color: #000000;
+}
+
+.creditos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(111, 114, 111);
+    margin: 0;
+}
+
+.creditos>.link {
+    color: #fff;
+    font-size: 1.25em;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
