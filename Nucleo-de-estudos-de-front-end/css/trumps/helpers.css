@@ -4,8 +4,10 @@
     margin: 0;
 }
 
-.color-mobile {
-    background-color: rgba(0, 0, 0, 0.8) !important;
+.color-mobile{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0 50px 0 ;
 }
 
 ._hiddentop {
