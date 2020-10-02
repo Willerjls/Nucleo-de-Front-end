@@ -4,3 +4,10 @@
     padding: 5px;
     text-decoration: none;
 }
+
+.itemmenu:hover{
+    font-weight: bold;
+    border-radius: 10px;
+    transition: 300ms;
+    font-size: 25px;
+}
